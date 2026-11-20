@@ -16,7 +16,7 @@ The goal is to **learn by doing** and practice how each part connects in a clear
 
 The app is deployed on **Streamlit Community Cloud** and publicly accessible here:
 
-👉 **[Launch the Dashboard](https://data-pipeline-monitoring-dashboard.streamlit.app/)**
+👉 **[Launch the Dashboard]https://data-pipeline-dashboard-main-dsmndduqmn9b3lp4dtgejc.streamlit.app/
 
 ---
 
