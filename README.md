@@ -1,6 +1,6 @@
 # Data Pipeline & Monitoring Dashboard
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://data-pipeline-monitoring-dashboard.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]https://data-pipeline-dashboard-main-dsmndduqmn9b3lp4dtgejc.streamlit.app/
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
   
 🔗 **Live Demo:** [data-pipeline-monitoring-dashboard.streamlit.app](https://data-pipeline-monitoring-dashboard.streamlit.app/)
